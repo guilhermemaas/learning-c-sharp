@@ -1,0 +1,11 @@
+D:\dev\learning-c-sharp\curso_udemy\secao3\FuncoesSintaxe\FuncoesSintaxe\bin\Debug\netcoreapp3.0\FuncoesSintaxe.exe
+D:\dev\learning-c-sharp\curso_udemy\secao3\FuncoesSintaxe\FuncoesSintaxe\bin\Debug\netcoreapp3.0\FuncoesSintaxe.deps.json
+D:\dev\learning-c-sharp\curso_udemy\secao3\FuncoesSintaxe\FuncoesSintaxe\bin\Debug\netcoreapp3.0\FuncoesSintaxe.runtimeconfig.json
+D:\dev\learning-c-sharp\curso_udemy\secao3\FuncoesSintaxe\FuncoesSintaxe\bin\Debug\netcoreapp3.0\FuncoesSintaxe.runtimeconfig.dev.json
+D:\dev\learning-c-sharp\curso_udemy\secao3\FuncoesSintaxe\FuncoesSintaxe\bin\Debug\netcoreapp3.0\FuncoesSintaxe.dll
+D:\dev\learning-c-sharp\curso_udemy\secao3\FuncoesSintaxe\FuncoesSintaxe\bin\Debug\netcoreapp3.0\FuncoesSintaxe.pdb
+D:\dev\learning-c-sharp\curso_udemy\secao3\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\netcoreapp3.0\FuncoesSintaxe.AssemblyInfoInputs.cache
+D:\dev\learning-c-sharp\curso_udemy\secao3\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\netcoreapp3.0\FuncoesSintaxe.AssemblyInfo.cs
+D:\dev\learning-c-sharp\curso_udemy\secao3\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\netcoreapp3.0\FuncoesSintaxe.dll
+D:\dev\learning-c-sharp\curso_udemy\secao3\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\netcoreapp3.0\FuncoesSintaxe.pdb
+D:\dev\learning-c-sharp\curso_udemy\secao3\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\netcoreapp3.0\FuncoesSintaxe.csprojAssemblyReference.cache

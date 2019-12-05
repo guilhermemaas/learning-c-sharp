@@ -1,0 +1,11 @@
+D:\dev\learning-c-sharp\curso_udemy\secao3\IfElse\IfElse\obj\Debug\netcoreapp3.0\IfElse.csprojAssemblyReference.cache
+D:\dev\learning-c-sharp\curso_udemy\secao3\IfElse\IfElse\obj\Debug\netcoreapp3.0\IfElse.AssemblyInfoInputs.cache
+D:\dev\learning-c-sharp\curso_udemy\secao3\IfElse\IfElse\obj\Debug\netcoreapp3.0\IfElse.AssemblyInfo.cs
+D:\dev\learning-c-sharp\curso_udemy\secao3\IfElse\IfElse\bin\Debug\netcoreapp3.0\IfElse.exe
+D:\dev\learning-c-sharp\curso_udemy\secao3\IfElse\IfElse\bin\Debug\netcoreapp3.0\IfElse.deps.json
+D:\dev\learning-c-sharp\curso_udemy\secao3\IfElse\IfElse\bin\Debug\netcoreapp3.0\IfElse.runtimeconfig.json
+D:\dev\learning-c-sharp\curso_udemy\secao3\IfElse\IfElse\bin\Debug\netcoreapp3.0\IfElse.runtimeconfig.dev.json
+D:\dev\learning-c-sharp\curso_udemy\secao3\IfElse\IfElse\bin\Debug\netcoreapp3.0\IfElse.dll
+D:\dev\learning-c-sharp\curso_udemy\secao3\IfElse\IfElse\bin\Debug\netcoreapp3.0\IfElse.pdb
+D:\dev\learning-c-sharp\curso_udemy\secao3\IfElse\IfElse\obj\Debug\netcoreapp3.0\IfElse.dll
+D:\dev\learning-c-sharp\curso_udemy\secao3\IfElse\IfElse\obj\Debug\netcoreapp3.0\IfElse.pdb

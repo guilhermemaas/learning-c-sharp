@@ -1,0 +1,10 @@
+D:\dev\learning-c-sharp\curso_udemy\secao3\EntradaDados1\EntradaDados1\bin\Debug\netcoreapp3.0\EntradaDados1.exe
+D:\dev\learning-c-sharp\curso_udemy\secao3\EntradaDados1\EntradaDados1\bin\Debug\netcoreapp3.0\EntradaDados1.deps.json
+D:\dev\learning-c-sharp\curso_udemy\secao3\EntradaDados1\EntradaDados1\bin\Debug\netcoreapp3.0\EntradaDados1.runtimeconfig.json
+D:\dev\learning-c-sharp\curso_udemy\secao3\EntradaDados1\EntradaDados1\bin\Debug\netcoreapp3.0\EntradaDados1.runtimeconfig.dev.json
+D:\dev\learning-c-sharp\curso_udemy\secao3\EntradaDados1\EntradaDados1\bin\Debug\netcoreapp3.0\EntradaDados1.dll
+D:\dev\learning-c-sharp\curso_udemy\secao3\EntradaDados1\EntradaDados1\bin\Debug\netcoreapp3.0\EntradaDados1.pdb
+D:\dev\learning-c-sharp\curso_udemy\secao3\EntradaDados1\EntradaDados1\obj\Debug\netcoreapp3.0\EntradaDados1.AssemblyInfoInputs.cache
+D:\dev\learning-c-sharp\curso_udemy\secao3\EntradaDados1\EntradaDados1\obj\Debug\netcoreapp3.0\EntradaDados1.AssemblyInfo.cs
+D:\dev\learning-c-sharp\curso_udemy\secao3\EntradaDados1\EntradaDados1\obj\Debug\netcoreapp3.0\EntradaDados1.dll
+D:\dev\learning-c-sharp\curso_udemy\secao3\EntradaDados1\EntradaDados1\obj\Debug\netcoreapp3.0\EntradaDados1.pdb

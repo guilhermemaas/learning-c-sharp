@@ -1,0 +1,11 @@
+D:\dev\learning-c-sharp\curso_udemy\secao3\OperadoresConversao\OperadoresConversao\OperadoresConversao\bin\Debug\netcoreapp3.0\OperadoresConversao.exe
+D:\dev\learning-c-sharp\curso_udemy\secao3\OperadoresConversao\OperadoresConversao\OperadoresConversao\bin\Debug\netcoreapp3.0\OperadoresConversao.deps.json
+D:\dev\learning-c-sharp\curso_udemy\secao3\OperadoresConversao\OperadoresConversao\OperadoresConversao\bin\Debug\netcoreapp3.0\OperadoresConversao.runtimeconfig.json
+D:\dev\learning-c-sharp\curso_udemy\secao3\OperadoresConversao\OperadoresConversao\OperadoresConversao\bin\Debug\netcoreapp3.0\OperadoresConversao.runtimeconfig.dev.json
+D:\dev\learning-c-sharp\curso_udemy\secao3\OperadoresConversao\OperadoresConversao\OperadoresConversao\bin\Debug\netcoreapp3.0\OperadoresConversao.dll
+D:\dev\learning-c-sharp\curso_udemy\secao3\OperadoresConversao\OperadoresConversao\OperadoresConversao\bin\Debug\netcoreapp3.0\OperadoresConversao.pdb
+D:\dev\learning-c-sharp\curso_udemy\secao3\OperadoresConversao\OperadoresConversao\OperadoresConversao\obj\Debug\netcoreapp3.0\OperadoresConversao.AssemblyInfoInputs.cache
+D:\dev\learning-c-sharp\curso_udemy\secao3\OperadoresConversao\OperadoresConversao\OperadoresConversao\obj\Debug\netcoreapp3.0\OperadoresConversao.AssemblyInfo.cs
+D:\dev\learning-c-sharp\curso_udemy\secao3\OperadoresConversao\OperadoresConversao\OperadoresConversao\obj\Debug\netcoreapp3.0\OperadoresConversao.dll
+D:\dev\learning-c-sharp\curso_udemy\secao3\OperadoresConversao\OperadoresConversao\OperadoresConversao\obj\Debug\netcoreapp3.0\OperadoresConversao.pdb
+D:\dev\learning-c-sharp\curso_udemy\secao3\OperadoresConversao\OperadoresConversao\OperadoresConversao\obj\Debug\netcoreapp3.0\OperadoresConversao.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\sword art\source\repos\ExerciciosIfElse\ExerciciosIfElse\bin\Debug\netcoreapp3.0\ExerciciosIfElse.exe
+C:\Users\sword art\source\repos\ExerciciosIfElse\ExerciciosIfElse\bin\Debug\netcoreapp3.0\ExerciciosIfElse.deps.json
+C:\Users\sword art\source\repos\ExerciciosIfElse\ExerciciosIfElse\bin\Debug\netcoreapp3.0\ExerciciosIfElse.runtimeconfig.json
+C:\Users\sword art\source\repos\ExerciciosIfElse\ExerciciosIfElse\bin\Debug\netcoreapp3.0\ExerciciosIfElse.runtimeconfig.dev.json
+C:\Users\sword art\source\repos\ExerciciosIfElse\ExerciciosIfElse\bin\Debug\netcoreapp3.0\ExerciciosIfElse.dll
+C:\Users\sword art\source\repos\ExerciciosIfElse\ExerciciosIfElse\bin\Debug\netcoreapp3.0\ExerciciosIfElse.pdb
+C:\Users\sword art\source\repos\ExerciciosIfElse\ExerciciosIfElse\obj\Debug\netcoreapp3.0\ExerciciosIfElse.csprojAssemblyReference.cache
+C:\Users\sword art\source\repos\ExerciciosIfElse\ExerciciosIfElse\obj\Debug\netcoreapp3.0\ExerciciosIfElse.AssemblyInfoInputs.cache
+C:\Users\sword art\source\repos\ExerciciosIfElse\ExerciciosIfElse\obj\Debug\netcoreapp3.0\ExerciciosIfElse.AssemblyInfo.cs
+C:\Users\sword art\source\repos\ExerciciosIfElse\ExerciciosIfElse\obj\Debug\netcoreapp3.0\ExerciciosIfElse.dll
+C:\Users\sword art\source\repos\ExerciciosIfElse\ExerciciosIfElse\obj\Debug\netcoreapp3.0\ExerciciosIfElse.pdb
