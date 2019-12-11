@@ -1,0 +1,11 @@
+D:\dev\learning-c-sharp\curso_udemy\secao4\TriangulosOO\TriangulosOO\bin\Debug\netcoreapp3.0\TrianguloSemOO.exe
+D:\dev\learning-c-sharp\curso_udemy\secao4\TriangulosOO\TriangulosOO\bin\Debug\netcoreapp3.0\TrianguloSemOO.deps.json
+D:\dev\learning-c-sharp\curso_udemy\secao4\TriangulosOO\TriangulosOO\bin\Debug\netcoreapp3.0\TrianguloSemOO.runtimeconfig.json
+D:\dev\learning-c-sharp\curso_udemy\secao4\TriangulosOO\TriangulosOO\bin\Debug\netcoreapp3.0\TrianguloSemOO.runtimeconfig.dev.json
+D:\dev\learning-c-sharp\curso_udemy\secao4\TriangulosOO\TriangulosOO\bin\Debug\netcoreapp3.0\TrianguloSemOO.dll
+D:\dev\learning-c-sharp\curso_udemy\secao4\TriangulosOO\TriangulosOO\bin\Debug\netcoreapp3.0\TrianguloSemOO.pdb
+D:\dev\learning-c-sharp\curso_udemy\secao4\TriangulosOO\TriangulosOO\obj\Debug\netcoreapp3.0\TrianguloSemOO.csprojAssemblyReference.cache
+D:\dev\learning-c-sharp\curso_udemy\secao4\TriangulosOO\TriangulosOO\obj\Debug\netcoreapp3.0\TrianguloSemOO.AssemblyInfoInputs.cache
+D:\dev\learning-c-sharp\curso_udemy\secao4\TriangulosOO\TriangulosOO\obj\Debug\netcoreapp3.0\TrianguloSemOO.AssemblyInfo.cs
+D:\dev\learning-c-sharp\curso_udemy\secao4\TriangulosOO\TriangulosOO\obj\Debug\netcoreapp3.0\TrianguloSemOO.dll
+D:\dev\learning-c-sharp\curso_udemy\secao4\TriangulosOO\TriangulosOO\obj\Debug\netcoreapp3.0\TrianguloSemOO.pdb

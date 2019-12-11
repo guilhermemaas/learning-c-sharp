@@ -1,0 +1,11 @@
+D:\dev\learning-c-sharp\curso_udemy\secao4\Exercicios\Funcionario\Funcionario\bin\Debug\netcoreapp3.0\Funcionario.exe
+D:\dev\learning-c-sharp\curso_udemy\secao4\Exercicios\Funcionario\Funcionario\bin\Debug\netcoreapp3.0\Funcionario.deps.json
+D:\dev\learning-c-sharp\curso_udemy\secao4\Exercicios\Funcionario\Funcionario\bin\Debug\netcoreapp3.0\Funcionario.runtimeconfig.json
+D:\dev\learning-c-sharp\curso_udemy\secao4\Exercicios\Funcionario\Funcionario\bin\Debug\netcoreapp3.0\Funcionario.runtimeconfig.dev.json
+D:\dev\learning-c-sharp\curso_udemy\secao4\Exercicios\Funcionario\Funcionario\bin\Debug\netcoreapp3.0\Funcionario.dll
+D:\dev\learning-c-sharp\curso_udemy\secao4\Exercicios\Funcionario\Funcionario\bin\Debug\netcoreapp3.0\Funcionario.pdb
+D:\dev\learning-c-sharp\curso_udemy\secao4\Exercicios\Funcionario\Funcionario\obj\Debug\netcoreapp3.0\Funcionario.csprojAssemblyReference.cache
+D:\dev\learning-c-sharp\curso_udemy\secao4\Exercicios\Funcionario\Funcionario\obj\Debug\netcoreapp3.0\Funcionario.AssemblyInfoInputs.cache
+D:\dev\learning-c-sharp\curso_udemy\secao4\Exercicios\Funcionario\Funcionario\obj\Debug\netcoreapp3.0\Funcionario.AssemblyInfo.cs
+D:\dev\learning-c-sharp\curso_udemy\secao4\Exercicios\Funcionario\Funcionario\obj\Debug\netcoreapp3.0\Funcionario.dll
+D:\dev\learning-c-sharp\curso_udemy\secao4\Exercicios\Funcionario\Funcionario\obj\Debug\netcoreapp3.0\Funcionario.pdb

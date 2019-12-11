@@ -1,0 +1,11 @@
+D:\dev\learning-c-sharp\curso_udemy\secao3\ExerciciosFor\ExerciciosFor\bin\Debug\netcoreapp3.0\ExerciciosFor.exe
+D:\dev\learning-c-sharp\curso_udemy\secao3\ExerciciosFor\ExerciciosFor\bin\Debug\netcoreapp3.0\ExerciciosFor.deps.json
+D:\dev\learning-c-sharp\curso_udemy\secao3\ExerciciosFor\ExerciciosFor\bin\Debug\netcoreapp3.0\ExerciciosFor.runtimeconfig.json
+D:\dev\learning-c-sharp\curso_udemy\secao3\ExerciciosFor\ExerciciosFor\bin\Debug\netcoreapp3.0\ExerciciosFor.runtimeconfig.dev.json
+D:\dev\learning-c-sharp\curso_udemy\secao3\ExerciciosFor\ExerciciosFor\bin\Debug\netcoreapp3.0\ExerciciosFor.dll
+D:\dev\learning-c-sharp\curso_udemy\secao3\ExerciciosFor\ExerciciosFor\bin\Debug\netcoreapp3.0\ExerciciosFor.pdb
+D:\dev\learning-c-sharp\curso_udemy\secao3\ExerciciosFor\ExerciciosFor\obj\Debug\netcoreapp3.0\ExerciciosFor.AssemblyInfoInputs.cache
+D:\dev\learning-c-sharp\curso_udemy\secao3\ExerciciosFor\ExerciciosFor\obj\Debug\netcoreapp3.0\ExerciciosFor.AssemblyInfo.cs
+D:\dev\learning-c-sharp\curso_udemy\secao3\ExerciciosFor\ExerciciosFor\obj\Debug\netcoreapp3.0\ExerciciosFor.dll
+D:\dev\learning-c-sharp\curso_udemy\secao3\ExerciciosFor\ExerciciosFor\obj\Debug\netcoreapp3.0\ExerciciosFor.pdb
+D:\dev\learning-c-sharp\curso_udemy\secao3\ExerciciosFor\ExerciciosFor\obj\Debug\netcoreapp3.0\ExerciciosFor.csprojAssemblyReference.cache

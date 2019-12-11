@@ -1,0 +1,11 @@
+D:\dev\learning-c-sharp\curso_udemy\secao4\Exercicio01\Exercicio01\bin\Debug\netcoreapp3.0\Exercicio01.exe
+D:\dev\learning-c-sharp\curso_udemy\secao4\Exercicio01\Exercicio01\bin\Debug\netcoreapp3.0\Exercicio01.deps.json
+D:\dev\learning-c-sharp\curso_udemy\secao4\Exercicio01\Exercicio01\bin\Debug\netcoreapp3.0\Exercicio01.runtimeconfig.json
+D:\dev\learning-c-sharp\curso_udemy\secao4\Exercicio01\Exercicio01\bin\Debug\netcoreapp3.0\Exercicio01.runtimeconfig.dev.json
+D:\dev\learning-c-sharp\curso_udemy\secao4\Exercicio01\Exercicio01\bin\Debug\netcoreapp3.0\Exercicio01.dll
+D:\dev\learning-c-sharp\curso_udemy\secao4\Exercicio01\Exercicio01\bin\Debug\netcoreapp3.0\Exercicio01.pdb
+D:\dev\learning-c-sharp\curso_udemy\secao4\Exercicio01\Exercicio01\obj\Debug\netcoreapp3.0\Exercicio01.csprojAssemblyReference.cache
+D:\dev\learning-c-sharp\curso_udemy\secao4\Exercicio01\Exercicio01\obj\Debug\netcoreapp3.0\Exercicio01.AssemblyInfoInputs.cache
+D:\dev\learning-c-sharp\curso_udemy\secao4\Exercicio01\Exercicio01\obj\Debug\netcoreapp3.0\Exercicio01.AssemblyInfo.cs
+D:\dev\learning-c-sharp\curso_udemy\secao4\Exercicio01\Exercicio01\obj\Debug\netcoreapp3.0\Exercicio01.dll
+D:\dev\learning-c-sharp\curso_udemy\secao4\Exercicio01\Exercicio01\obj\Debug\netcoreapp3.0\Exercicio01.pdb

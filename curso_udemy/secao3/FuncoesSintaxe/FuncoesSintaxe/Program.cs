@@ -7,6 +7,14 @@ namespace FuncoesSintaxe
         static void Main(string[] args)
         {
 
+            //Debugging:
+            // F9 - Marca a linha para debug a partir da mesma
+            // F5 - inicia o debug.
+            // F10 - Avanca
+            // shift + f5 interrompe o debug.
+            // f11 entra em uma funcao/metodo durante o debug.
+            // shift + f11 sai do debug da funcao/metodo.
+
             Console.WriteLine("Digite tres numeros: ");
             int n1 = int.Parse(Console.ReadLine());
             int n2 = int.Parse(Console.ReadLine());
